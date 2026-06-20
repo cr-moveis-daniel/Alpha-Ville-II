@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20986" start="node4" hassounds="1" appversion="7.1.8">
+  <panorama hideabout="1" id="node4">
+    <input levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1651" height="1651" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltilesize="510">
+      <level width="1651" height="1651" predecode="0" preload="0"/>
+      <level width="825" height="825" predecode="0" preload="0"/>
+      <level width="412" height="412" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="134" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata comment="" author="" altitude="847.30" nodeid="node4" description="" datetime="17/06/2026 17:03" heading="134" customnodeid="" info="" source="" tags="AlphavilleII" title="PORTARIA" copyright="" latitude="-21.768765" longitude="-43.426522"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderalpha="1" textalpha="1" wordwrap="1" width="180" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" borderradius="1" enabled="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot tilt="3.51" target="-16.4/-9.7/100.0" id="Point01" description="" pan="-16.96" url="{node2}" distance="610.587" title="CASA 01" skinid="ht_node"/>
+      <hotspot tilt="0" target="-30.9/-17.0/126.6" id="Point02" description="" pan="297.502" url="{node5}" distance="206.542" title="ÁREA DE LAZER" skinid="ht_area_lazer"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" delay="none" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" lockedwheel="0" rubberband="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextvr="1" contextprojections="0" hideabout="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node2">
+    <input levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1649" height="1649" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltilesize="510">
+      <level width="1649" height="1649" predecode="0" preload="0"/>
+      <level width="824" height="824" predecode="0" preload="0"/>
+      <level width="412" height="412" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-141" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata comment="" author="" nodeid="node2" description="" datetime="2026:04:17 15:35:37" heading="-141" customnodeid="" info="" source="" tags="AlphavilleII" title="CASA 01" copyright="" latitude="-21.773467" longitude="-43.423468"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderalpha="1" textalpha="1" wordwrap="1" width="180" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" borderradius="1" enabled="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot tilt="-13.57" target="-45.9/-7.3/117.0" id="Point02" description="" pan="-24.57" url="{node3}" distance="10.1332" title="SALA" skinid="ht_node"/>
+      <hotspot tilt="0" target="-16.1/-3.2/108.2" id="Point01" description="" pan="-109.902" url="{node4}" distance="610.587" title="PORTARIA" skinid="ht_portaria"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" delay="none" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" lockedwheel="0" rubberband="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextvr="1" contextprojections="0" hideabout="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node3">
+    <input levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1669" height="1669" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltilesize="510">
+      <level width="1669" height="1669" predecode="0" preload="0"/>
+      <level width="834" height="834" predecode="0" preload="0"/>
+      <level width="417" height="417" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="61" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata comment="" author="" nodeid="node3" description="" datetime="" heading="61" customnodeid="" info="" source="" tags="CASA01" title="SALA" copyright="" latitude="-21.77350772" longitude="-43.42355579"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderalpha="1" textalpha="1" wordwrap="1" width="180" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" borderradius="1" enabled="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot tilt="-4.01" target="-17.4/-9.8/100.0" id="Point01" description="" pan="-350.18" url="{node2}" distance="10.1332" title="CASA 01" skinid="ht_node"/>
+    </hotspots>
+    <media>
+      <video stretch="1.004" mode="5" id="Vídeo casa" popbackmode="0" popoutscaling="100" rotz="-0.090" pan="-8.060" level="0.700" roty="1.440" ambientlevel="0.100" pansize="10.000" clickmode="2" tiltsize="10.000" tilt="-4.180" handcursor="1" startmutedmobile="0" rotx="-6.410" field="90.000" width="1920" height="1080" loop="1" nodechangekeep="0" fov="15.050" hidepinned="0">
+        <source url="media/Casa alphaville 1 - hrz - crimo_1-1.mp4"/>
+      </video>
+    </media>
+    <transition zoomout="0" delay="none" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" lockedwheel="0" rubberband="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextvr="1" contextprojections="0" hideabout="1"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" width="1649" height="1649" levelbiashidpi="1.000" levelingpitch="0" overlap="1" leveltilesize="510">
+      <level width="1649" height="1649" predecode="0" preload="0"/>
+      <level width="824" height="824" predecode="0" preload="0"/>
+      <level width="412" height="412" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-24" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata comment="" author="" altitude="865.00" nodeid="node5" description="" datetime="17/06/2026 16:55" heading="-24" customnodeid="" info="" source="" tags="readelazer" title="ÁREA DE LAZER" copyright="" latitude="-21.770546" longitude="-43.427090"/>
+    <hotspots wordwrap="1" width="180" height="20" smoothmovement="0">
+      <label borderalpha="1" textalpha="1" wordwrap="1" width="180" height="20" textcolor="0x000000" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1" borderradius="1" enabled="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot tilt="-4.26" target="-15.9/-0.5/100.0" id="Point01" description="" pan="-41.26" url="{node4}" distance="206.542" title="PORTARIA" skinid="ht_portaria"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" delay="none" type="crossdissolve" zoomin="0" zoomoutpause="1" blendcolor="0x000000" softedge="0" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" blendtime="1" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control zoomcentercursor="1" dblclickfullscreen="0" lockedkeyboardzoom="0" contextfullscreen="1" lockedmouse="0" speedwheel="1" simulatemass="1" lockedkeyboard="0" lockedwheel="0" rubberband="0" invertcontrol="1" invertwheel="0" sensitivity="8" contextvr="1" contextprojections="0" hideabout="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" author="" title="" tags="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
